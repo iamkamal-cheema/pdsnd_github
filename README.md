@@ -5,7 +5,7 @@ September 25,2020
 Bikeshare Project
 
 ### Description
-Describe what your project is about and what it does
+Bikeshare data project to explore data for United States cities Chicago, New York city and Washington. 
 
 ### Files used
 Include the files used
