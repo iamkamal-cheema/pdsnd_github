@@ -11,4 +11,4 @@ Describe what your project is about and what it does
 bikeshare_2.py, chicago.csv, new york city.csv,washington.csv, Readme.md
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Udacity
